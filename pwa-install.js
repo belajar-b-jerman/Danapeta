@@ -2,7 +2,7 @@
   var installPrompt = null;
   var buttonId = "danapeta-install-button";
   var cardId = "danapeta-ios-install-card";
-  var basePath = "/danapeta/";
+  var basePath = "/Danapeta/";
 
   function isStandalone() {
     return window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
