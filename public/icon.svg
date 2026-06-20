@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">DANAPETA</title>
+  <rect width="512" height="512" rx="112" fill="#F8F5EF" />
+  <path d="M150 132h100c72 0 132 58 132 130s-60 130-132 130h-77c-12 0-21-10-18-22 11-45 51-73 98-72 31 0 56-24 56-55s-25-55-56-55h-55v194c0 17-14 31-31 31s-31-14-31-31V146c0-8 6-14 14-14Z" fill="#7FAE93" />
+  <path d="M179 321c27-39 64-59 112-59 30 0 57-12 77-33-4 60-54 108-117 108h-72c-10 0-6-9 0-16Z" fill="#C3E0CA" />
+  <path d="M244 222c0-33 27-60 60-60s60 27 60 60c0 43-60 101-60 101s-60-58-60-101Z" fill="#5A9A78" />
+  <circle cx="304" cy="222" r="20" fill="#F8F5EF" />
+</svg>
