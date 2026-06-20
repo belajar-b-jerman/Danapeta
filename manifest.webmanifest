@@ -2,25 +2,26 @@
   "name": "DANAPETA",
   "short_name": "DANAPETA",
   "description": "Peta finansial pribadi yang privat, lokal, dan terarah.",
-  "start_url": "/",
+  "start_url": "/danapeta/",
+  "scope": "/danapeta/",
   "display": "standalone",
   "background_color": "#F8F5EF",
   "theme_color": "#7FAE93",
   "icons": [
     {
-      "src": "/pwa-192x192.png",
+      "src": "/danapeta/pwa-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/pwa-512x512.png",
+      "src": "/danapeta/pwa-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon.svg",
+      "src": "/danapeta/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

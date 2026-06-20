@@ -2,6 +2,7 @@
   var installPrompt = null;
   var buttonId = "danapeta-install-button";
   var cardId = "danapeta-ios-install-card";
+  var basePath = "/danapeta/";
 
   function isStandalone() {
     return window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
@@ -104,7 +105,7 @@
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", function () {
-      navigator.serviceWorker.register("/sw.js", { scope: "/" });
+      navigator.serviceWorker.register(basePath + "sw.js", { scope: basePath });
     });
   }
 
