@@ -1,0 +1,1 @@
+import{j as r}from"./react-CM_qmHs7.js";import{f as n}from"./Card-BKyl4V7u.js";import{k as m}from"./index-Dfxrxph4.js";function i({value:s,className:o}){const t=s>0;return r.jsxs("span",{className:m("font-bold tabular-nums",t?"text-success":"text-ink",o),children:[t?"+":s<0?"-":"",n(Math.abs(s))]})}export{i as A};
