@@ -1,0 +1,1 @@
+import{j as e}from"./react-CM_qmHs7.js";import{k as o}from"./index-DJdhGdIp.js";function l({label:s,color:t="#88B99A",className:n}){return e.jsxs("span",{className:o("inline-flex items-center gap-2 rounded-full bg-muted px-2.5 py-1 text-xs font-semibold text-ink",n),children:[e.jsx("span",{className:"h-2 w-2 rounded-full",style:{backgroundColor:t}}),s]})}export{l as C};
