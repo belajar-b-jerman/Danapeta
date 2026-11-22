@@ -5,8 +5,8 @@
   "start_url": "/Danapeta/",
   "scope": "/Danapeta/",
   "display": "standalone",
-  "background_color": "#F8F5EF",
-  "theme_color": "#7FAE93",
+  "background_color": "#F6F2E9",
+  "theme_color": "#1E4D3B",
   "icons": [
     {
       "src": "/Danapeta/pwa-192x192.png",
